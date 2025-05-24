@@ -1,0 +1,15 @@
+{
+    "docstatus": 0,
+    "doctype": "Module Def",
+    "module_name": "HPOS",
+    "app_name": "hpos",
+    "category": "Modules",
+    "icon": "fa fa-shopping-cart",
+    "color": "#589494",
+    "idx": 0,
+    "restrict_to_domain": null,
+    "_user_tags": null,
+    "_comments": null,
+    "_assign": null,
+    "_liked_by": null
+}
