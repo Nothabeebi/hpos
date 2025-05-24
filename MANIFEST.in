@@ -1,0 +1,7 @@
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include hpos/templates *
+recursive-include hpos/public *
+recursive-include hpos/www *
